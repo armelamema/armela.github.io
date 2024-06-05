@@ -1,7 +1,7 @@
 # armela.github.io
 My small website project
 
-What the project does
+What the project does?
 This project is a small website with a modern design, intuitive navigation, and responsive layout.
 
 Why is it useful?
