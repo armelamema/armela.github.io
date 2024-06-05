@@ -1,0 +1,102 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+    color: #000;
+}
+
+a:link {
+    color: rgba(0, 0, 0, 0.849);
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    background-color: #3CF;
+    color: rgb(10, 10, 10);
+}
+
+a:active {
+    color: rgb(0, 0, 0);
+}
+
+.logo {
+    font-size: 36px;
+}
+
+.deadnav{
+    color: blue;
+    display: inline;
+    border-left: 1px solid;
+}
+#navlist li {
+    display: inline;
+    list-style-type: circle;
+    padding-right: 20px;
+    border-left: 1px solid #000;
+    line-height: 1.1em;
+    margin: 0 0.5em 0 -0.5em;
+    padding: 0 0.5em;
+}
+
+.box {
+    margin: 10px;
+    padding: 10px;
+    background-color: #b18801;
+    border: 1px solid black;
+    clear: both;
+}
+
+.nav {
+    margin: 10px;
+    padding: 10px;
+    background-color: #dbbf62;
+    border: 1px solid black;
+}
+
+.left {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #dbbf62;
+    border: 1px solid black;
+    float: left;
+}
+
+.centre {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #dbbf62;
+    border: 1px solid black;
+    float: left;
+}
+
+.right {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #dbbf62;
+    border: 1px solid black;
+    float: right;
+}
+
+.lower_nav {
+    margin: 10px;
+    padding: 10px;
+    background-color: #dbbf62;
+    border: 1px solid black;
+    clear: both;
+}
+
+.legal {
+    margin: 10px;
+    padding: 10px;
+    background-color: #dbbf62;
+    border: 1px solid black;
+    clear: both;
+    float: none;
+}
